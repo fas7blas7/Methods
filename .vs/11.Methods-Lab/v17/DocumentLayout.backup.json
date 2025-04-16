@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD937EB2-A145-486B-A739-36CE58FA4A15}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|c:\\users\\skylinecho\\desktop\\programming fundamentals and unit testing - january 2025\\13-methods not done\\04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD937EB2-A145-486B-A739-36CE58FA4A15}|04.CalculateRectangleArea\\04.CalculateRectangleArea.csproj|solutionrelative:04.calculaterectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292C96EA-8834-40AC-8873-3D429C559896}|03.PrintingTriangle\\03.PrintingTriangle.csproj|c:\\users\\skylinecho\\desktop\\programming fundamentals and unit testing - january 2025\\13-methods not done\\03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292C96EA-8834-40AC-8873-3D429C559896}|03.PrintingTriangle\\03.PrintingTriangle.csproj|solutionrelative:03.printingtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC081714-C3D7-49FE-923E-E62F59E8B7E3}|02.Grades\\02.Grades.csproj|c:\\users\\skylinecho\\desktop\\programming fundamentals and unit testing - january 2025\\13-methods not done\\02.grades\\02.grades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC081714-C3D7-49FE-923E-E62F59E8B7E3}|02.Grades\\02.Grades.csproj|solutionrelative:02.grades\\02.grades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696246DE-EB84-46C7-B448-DBCA58BA81B8}|01.Sign\u041EfIntegerNumbers\\01.Sign\u041EfIntegerNumbers.csproj|c:\\users\\skylinecho\\desktop\\programming fundamentals and unit testing - january 2025\\13-methods not done\\01.sign\u043Efintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696246DE-EB84-46C7-B448-DBCA58BA81B8}|01.Sign\u041EfIntegerNumbers\\01.Sign\u041EfIntegerNumbers.csproj|solutionrelative:01.sign\u043Efintegernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "04.CalculateRectangleArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\04.CalculateRectangleArea\\Program.cs",
+              "RelativeToolTip": "04.CalculateRectangleArea\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:31:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\03.PrintingTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "03.PrintingTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\03.PrintingTriangle\\Program.cs",
+              "RelativeToolTip": "03.PrintingTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:30:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02.Grades",
+              "DocumentMoniker": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\02.Grades\\02.Grades.csproj",
+              "RelativeDocumentMoniker": "02.Grades\\02.Grades.csproj",
+              "ToolTip": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\02.Grades\\02.Grades.csproj",
+              "RelativeToolTip": "02.Grades\\02.Grades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T13:26:49.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\01.Sign\u041EfIntegerNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.Sign\u041EfIntegerNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Skylinecho\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\13-METHODS not done\\01.Sign\u041EfIntegerNumbers\\Program.cs",
+              "RelativeToolTip": "01.Sign\u041EfIntegerNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:25:13.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

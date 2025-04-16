@@ -1,0 +1,14 @@
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\bin\Debug\net8.0\01.SignОfIntegerNumbers.exe
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\bin\Debug\net8.0\01.SignОfIntegerNumbers.deps.json
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\bin\Debug\net8.0\01.SignОfIntegerNumbers.runtimeconfig.json
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\bin\Debug\net8.0\01.SignОfIntegerNumbers.dll
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\bin\Debug\net8.0\01.SignОfIntegerNumbers.pdb
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.dll
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\refint\01.SignОfIntegerNumbers.dll
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.pdb
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\01.SignОfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Skylinecho\Desktop\Programming Fundamentals and Unit Testing - January 2025\13-METHODS not done\01.SignОfIntegerNumbers\obj\Debug\net8.0\ref\01.SignОfIntegerNumbers.dll
